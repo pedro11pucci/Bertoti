@@ -1,1 +1,1 @@
-![diagrama](https://github.com/pedro11pucci/Bertoti/assets/56747051/0a940402-7560-4c29-90fe-d73c7449bccf)
+![diagrama](https://github.com/pedro11pucci/Bertoti/assets/56747051/ab0c13a2-fe41-456f-883c-81dfe67e6cd5)
