@@ -37,5 +37,8 @@ Na plataforma SIGA, na tela de login, o usuário não pode utilizar a tecla <b>E
 
 ![Screenshot_3](https://github.com/pedro11pucci/Bertoti/assets/56747051/5becfef8-829b-4eba-afbd-cf563d445b21)
 
-
 A plataforma SIGA tem um design minimalista demais, com muitas informações úteis não sendo exibidas na tela principal (que deveria exibir informações importantes, afinal ela se chama Avisos), com essas informações sendo enviadas para o email institucional dos alunos.
+
+## #9: Ajudar usuários a reconhecer, diagnosticar e recuperar de error
+
+## #10: Ajuda e documentação
