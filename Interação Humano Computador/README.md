@@ -8,7 +8,7 @@ Para acessar o Facebook, o site pede que eu digite o código enviado para meu em
 
 ![Screenshot_1](https://github.com/pedro11pucci/Bertoti/assets/56747051/429f9781-6ae9-4872-a3e5-7253fd76e62c)
 
-O botão de sair da plataforma SIGA é uma imagem vermelha com um ícone que parece simbolizar o estado de ligado de um interruptor, ao invés de algo que lembre a ação de sair.
+O botão de sair da plataforma SIGA é uma imagem vermelha com um ícone que parece simbolizar o estado de ligado de um interruptor, ou um botão de informações , ao invés de algo que lembre a ação de sair.
 
 ## #3: Controle de usuário de liberdade
 
