@@ -16,7 +16,7 @@ O botão de sair da plataforma SIGA é uma imagem vermelha com um ícone que par
 
 Na plataforma SIGA, não existe nenhum botão para retornar a tela HOME. O mais próximo disso, que seria o botão <b>Menu</b>, apenas colapsa as opções para visitar outras partes do site.
 
-## #4: Consistência e padrões
+## #4: Consistência e padrões & #10: Ajuda e documentação
 
 ![Heuristica 2](https://github.com/pedro11pucci/Bertoti/assets/56747051/e2f90200-51f1-43ec-be91-35329a7b6d13)
 
@@ -40,5 +40,3 @@ Na plataforma SIGA, na tela de login, o usuário não pode utilizar a tecla <b>E
 ![Screenshot_3](https://github.com/pedro11pucci/Bertoti/assets/56747051/5becfef8-829b-4eba-afbd-cf563d445b21)
 
 A plataforma SIGA tem um design minimalista demais, com muitas informações úteis não sendo exibidas na tela principal (que deveria exibir informações importantes, afinal ela se chama Avisos), com essas informações sendo enviadas para o email institucional dos alunos.
-
-## #10: Ajuda e documentação
