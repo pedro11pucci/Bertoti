@@ -4,7 +4,7 @@
 
 Para acessar o Facebook, o site pede que eu digite o código enviado para meu email, porém, eu nunca recebo o email, o botão <b>Enviar email novamente</b> não faz nada e o site não possuí um botão de ajuda para casos do tipo.
 
-## #2: Correspondência entre o sistema e o mundo real
+## #2: Correspondência entre o sistema e o mundo real & #6: Reconhecimento em vez de lembrança
 
 ![Screenshot_1](https://github.com/pedro11pucci/Bertoti/assets/56747051/429f9781-6ae9-4872-a3e5-7253fd76e62c)
 
@@ -23,9 +23,11 @@ Na plataforma SIGA, não existe nenhum botão para retornar a tela HOME. O mais 
 Na plataforma SIGA, na tela de <b>Solução para problemas no Acesso</b>, o formulário pede para inserir a informação Usuário, e não há alternativa para caso o usuário tenha esquecido essa informação. <br>
 Além disso, os botões <b>Problema com Senha</b> e <b>Problema com Usuário</b> no topo da tela não fazem nada.
 
-## #5: Prevenção de erros
+## #5: Prevenção de erros & #9: Ajudar usuários a reconhecer, diagnosticar e recuperar de erros
 
-## #6: Reconhecimento em vez de lembrança
+![Screenshot_4](https://github.com/pedro11pucci/Bertoti/assets/56747051/2e2cdeee-c705-45a4-b918-f09a3fd1ec08)
+
+Na plataforma SIGA, não existe nenhum botão para resolver um problema onde as materias as quais o aluno está matriculado não aparecem na tela <b>Horários>/b>
 
 ## #7: Flexibilidade e eficiência de uso
 
@@ -38,7 +40,5 @@ Na plataforma SIGA, na tela de login, o usuário não pode utilizar a tecla <b>E
 ![Screenshot_3](https://github.com/pedro11pucci/Bertoti/assets/56747051/5becfef8-829b-4eba-afbd-cf563d445b21)
 
 A plataforma SIGA tem um design minimalista demais, com muitas informações úteis não sendo exibidas na tela principal (que deveria exibir informações importantes, afinal ela se chama Avisos), com essas informações sendo enviadas para o email institucional dos alunos.
-
-## #9: Ajudar usuários a reconhecer, diagnosticar e recuperar de error
 
 ## #10: Ajuda e documentação
