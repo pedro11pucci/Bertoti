@@ -9,6 +9,6 @@ public class User implements DeviceStatusObserver {
 
     @Override
     public void update(String status) {
-        System.out.println(name + " received notification: Device status changed to " + status);
+        System.out.println(name + " recebeu notificação: Estado do dispositivo alterado para " + status);
     }
 }

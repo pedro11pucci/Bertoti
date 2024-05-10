@@ -1,4 +1,5 @@
-import DeviceControlStrategy
+package strategy;
+
 public interface DeviceControlStrategy {
     void control();
 }

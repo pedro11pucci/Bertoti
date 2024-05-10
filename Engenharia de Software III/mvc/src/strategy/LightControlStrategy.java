@@ -1,8 +1,8 @@
-package strategy
+package strategy;
 
 public class LightControlStrategy implements DeviceControlStrategy {
     @Override
     public void control() {
-        System.out.println("Controlling lights...");
+        System.out.println("Controlando luzes...");
     }
 }
