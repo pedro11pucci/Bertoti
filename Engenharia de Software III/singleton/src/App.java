@@ -1,3 +1,6 @@
+import connection.ConnectionManager;
+import devices.SmartDevice;
+
 public class App {
     public static void main(String[] args) {
         ConnectionManager connectionManager = ConnectionManager.getInstance();
