@@ -9,6 +9,6 @@ public class BitcoinPaymentStrategy implements PaymentStrategy {
 
     @Override
     public void pay(double amount) {
-        System.out.println("Pagando " + amount + " com Bitcoin");
+        System.out.println("Pagando " + amount + " com Bitcoin para " + this.bitcoinAddress);
     }
 }
